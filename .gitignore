@@ -1,0 +1,12 @@
+# IDE
+.idea/
+js-blockchain.iml
+
+# build folder
+build/
+
+# node_modules
+node_modules/
+
+# generated package file
+package-lock.json
